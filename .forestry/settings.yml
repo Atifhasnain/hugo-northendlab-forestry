@@ -29,6 +29,7 @@ sections:
 - type: document
   path: content/contact/_index.md
   label: Contact
+  read_only: false
 - type: document
   path: config.toml
   label: Configuration
